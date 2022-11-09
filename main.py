@@ -7,7 +7,7 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 
 #Title
 st.title("Iris EDA App")
-st.header("Built with Streamlit")
+st.header("Built with Streamlitt")
 
 eda.read_dataset()
 eda.show_dataset()
